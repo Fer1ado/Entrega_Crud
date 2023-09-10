@@ -1,0 +1,952 @@
+[
+  {
+    "title": "manzana",
+    "description": "roja",
+    "price": 550,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MM284",
+    "stock": 76,
+    "status": true,
+    "id": 13077
+  },
+  {
+    "title": "Pera de Agua",
+    "description": "Pera de agua o Blanquilla: Son peras de tamaño medio,",
+    "price": 687,
+    "thumbnail": "foto",
+    "code": "MM248",
+    "stock": 54,
+    "status": true,
+    "id": 51807
+  },
+  {
+    "title": "mandarina",
+    "description": "naranja",
+    "price": 354,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MA275",
+    "stock": 206,
+    "status": true,
+    "id": 71303
+  },
+  {
+    "title": "Manzana Fuji",
+    "description": "Manzana Fuji: Es una variedad de manzana originaria de Japón",
+    "price": 500,
+    "thumbnail": "foto",
+    "code": "MM249",
+    "stock": 32,
+    "status": true,
+    "id": 28389
+  },
+  {
+    "title": "Banana",
+    "description": "Banana: Es una fruta tropical originaria del sudeste asiático.",
+    "price": 300,
+    "thumbnail": "foto",
+    "code": "MM250",
+    "stock": 12,
+    "status": true,
+    "id": 42069
+  },
+  {
+    "title": "Mango",
+    "description": "El mango es una fruta tropical originaria del sur y sureste asiático.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "MNGO-001",
+    "stock": 100,
+    "status": true,
+    "id": 8552
+  },
+  {
+    "title": "Ñame",
+    "description": "El ñame es un tubérculo originario de África y Asia.",
+    "price": 159,
+    "thumbnail": "foto",
+    "code": "YAM-001",
+    "stock": 100,
+    "status": true,
+    "id": 41005
+  },
+  {
+    "title": "Batata",
+    "description": "La batata es un tubérculo originario de América del Sur.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "BT-001",
+    "stock": 100,
+    "status": true,
+    "id": 60948
+  },
+  {
+    "title": "queso",
+    "description": "blando",
+    "price": "1200",
+    "thumbnail": "df",
+    "code": "45",
+    "stock": "54",
+    "status": true,
+    "id": 84382
+  },
+  {
+    "title": "pp",
+    "description": "pp",
+    "price": "4444",
+    "thumbnail": "444",
+    "code": "4444",
+    "stock": "4444",
+    "status": true,
+    "id": 7149
+  },
+  {
+    "title": "banana",
+    "description": "amarilla",
+    "price": "12454",
+    "thumbnail": "laksdjflij",
+    "code": "564684",
+    "stock": "54",
+    "status": true,
+    "id": 96545
+  },
+  {
+    "title": "manzana",
+    "description": "roja",
+    "price": 550,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MM284",
+    "stock": 76,
+    "status": true,
+    "id": 13077
+  },
+  {
+    "title": "Pera de Agua",
+    "description": "Pera de agua o Blanquilla: Son peras de tamaño medio,",
+    "price": 687,
+    "thumbnail": "foto",
+    "code": "MM248",
+    "stock": 54,
+    "status": true,
+    "id": 51807
+  },
+  {
+    "title": "mandarina",
+    "description": "naranja",
+    "price": 354,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MA275",
+    "stock": 206,
+    "status": true,
+    "id": 71303
+  },
+  {
+    "title": "Manzana Fuji",
+    "description": "Manzana Fuji: Es una variedad de manzana originaria de Japón",
+    "price": 500,
+    "thumbnail": "foto",
+    "code": "MM249",
+    "stock": 32,
+    "status": true,
+    "id": 28389
+  },
+  {
+    "title": "Banana",
+    "description": "Banana: Es una fruta tropical originaria del sudeste asiático.",
+    "price": 300,
+    "thumbnail": "foto",
+    "code": "MM250",
+    "stock": 12,
+    "status": true,
+    "id": 42069
+  },
+  {
+    "title": "Mango",
+    "description": "El mango es una fruta tropical originaria del sur y sureste asiático.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "MNGO-001",
+    "stock": 100,
+    "status": true,
+    "id": 8552
+  },
+  {
+    "title": "Ñame",
+    "description": "El ñame es un tubérculo originario de África y Asia.",
+    "price": 159,
+    "thumbnail": "foto",
+    "code": "YAM-001",
+    "stock": 100,
+    "status": true,
+    "id": 41005
+  },
+  {
+    "title": "Batata",
+    "description": "La batata es un tubérculo originario de América del Sur.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "BT-001",
+    "stock": 100,
+    "status": true,
+    "id": 60948
+  },
+  {
+    "title": "queso",
+    "description": "blando",
+    "price": "1200",
+    "thumbnail": "df",
+    "code": "45",
+    "stock": "54",
+    "status": true,
+    "id": 84382
+  },
+  {
+    "title": "pp",
+    "description": "pp",
+    "price": "4444",
+    "thumbnail": "444",
+    "code": "4444",
+    "stock": "4444",
+    "status": true,
+    "id": 7149
+  },
+  {
+    "title": "banana",
+    "description": "amarilla",
+    "price": "12454",
+    "thumbnail": "laksdjflij",
+    "code": "564684",
+    "stock": "54",
+    "status": true,
+    "id": 96545
+  },
+  {
+    "title": "sandia",
+    "description": "grande",
+    "price": "12454",
+    "thumbnail": "laksdjflij",
+    "code": "5484",
+    "stock": "56",
+    "status": true,
+    "id": 17000
+  },
+  {
+    "title": "manzana",
+    "description": "roja",
+    "price": 550,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MM284",
+    "stock": 76,
+    "status": true,
+    "id": 13077
+  },
+  {
+    "title": "Pera de Agua",
+    "description": "Pera de agua o Blanquilla: Son peras de tamaño medio,",
+    "price": 687,
+    "thumbnail": "foto",
+    "code": "MM248",
+    "stock": 54,
+    "status": true,
+    "id": 51807
+  },
+  {
+    "title": "mandarina",
+    "description": "naranja",
+    "price": 354,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MA275",
+    "stock": 206,
+    "status": true,
+    "id": 71303
+  },
+  {
+    "title": "Manzana Fuji",
+    "description": "Manzana Fuji: Es una variedad de manzana originaria de Japón",
+    "price": 500,
+    "thumbnail": "foto",
+    "code": "MM249",
+    "stock": 32,
+    "status": true,
+    "id": 28389
+  },
+  {
+    "title": "Banana",
+    "description": "Banana: Es una fruta tropical originaria del sudeste asiático.",
+    "price": 300,
+    "thumbnail": "foto",
+    "code": "MM250",
+    "stock": 12,
+    "status": true,
+    "id": 42069
+  },
+  {
+    "title": "Mango",
+    "description": "El mango es una fruta tropical originaria del sur y sureste asiático.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "MNGO-001",
+    "stock": 100,
+    "status": true,
+    "id": 8552
+  },
+  {
+    "title": "Ñame",
+    "description": "El ñame es un tubérculo originario de África y Asia.",
+    "price": 159,
+    "thumbnail": "foto",
+    "code": "YAM-001",
+    "stock": 100,
+    "status": true,
+    "id": 41005
+  },
+  {
+    "title": "Batata",
+    "description": "La batata es un tubérculo originario de América del Sur.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "BT-001",
+    "stock": 100,
+    "status": true,
+    "id": 60948
+  },
+  {
+    "title": "queso",
+    "description": "blando",
+    "price": "1200",
+    "thumbnail": "df",
+    "code": "45",
+    "stock": "54",
+    "status": true,
+    "id": 84382
+  },
+  {
+    "title": "pp",
+    "description": "pp",
+    "price": "4444",
+    "thumbnail": "444",
+    "code": "4444",
+    "stock": "4444",
+    "status": true,
+    "id": 7149
+  },
+  {
+    "title": "banana",
+    "description": "amarilla",
+    "price": "12454",
+    "thumbnail": "laksdjflij",
+    "code": "564684",
+    "stock": "54",
+    "status": true,
+    "id": 96545
+  },
+  {
+    "title": "manzana",
+    "description": "roja",
+    "price": 550,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MM284",
+    "stock": 76,
+    "status": true,
+    "id": 13077
+  },
+  {
+    "title": "Pera de Agua",
+    "description": "Pera de agua o Blanquilla: Son peras de tamaño medio,",
+    "price": 687,
+    "thumbnail": "foto",
+    "code": "MM248",
+    "stock": 54,
+    "status": true,
+    "id": 51807
+  },
+  {
+    "title": "mandarina",
+    "description": "naranja",
+    "price": 354,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MA275",
+    "stock": 206,
+    "status": true,
+    "id": 71303
+  },
+  {
+    "title": "Manzana Fuji",
+    "description": "Manzana Fuji: Es una variedad de manzana originaria de Japón",
+    "price": 500,
+    "thumbnail": "foto",
+    "code": "MM249",
+    "stock": 32,
+    "status": true,
+    "id": 28389
+  },
+  {
+    "title": "Banana",
+    "description": "Banana: Es una fruta tropical originaria del sudeste asiático.",
+    "price": 300,
+    "thumbnail": "foto",
+    "code": "MM250",
+    "stock": 12,
+    "status": true,
+    "id": 42069
+  },
+  {
+    "title": "Mango",
+    "description": "El mango es una fruta tropical originaria del sur y sureste asiático.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "MNGO-001",
+    "stock": 100,
+    "status": true,
+    "id": 8552
+  },
+  {
+    "title": "Ñame",
+    "description": "El ñame es un tubérculo originario de África y Asia.",
+    "price": 159,
+    "thumbnail": "foto",
+    "code": "YAM-001",
+    "stock": 100,
+    "status": true,
+    "id": 41005
+  },
+  {
+    "title": "Batata",
+    "description": "La batata es un tubérculo originario de América del Sur.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "BT-001",
+    "stock": 100,
+    "status": true,
+    "id": 60948
+  },
+  {
+    "title": "queso",
+    "description": "blando",
+    "price": "1200",
+    "thumbnail": "df",
+    "code": "45",
+    "stock": "54",
+    "status": true,
+    "id": 84382
+  },
+  {
+    "title": "pp",
+    "description": "pp",
+    "price": "4444",
+    "thumbnail": "444",
+    "code": "4444",
+    "stock": "4444",
+    "status": true,
+    "id": 7149
+  },
+  {
+    "title": "banana",
+    "description": "amarilla",
+    "price": "12454",
+    "thumbnail": "laksdjflij",
+    "code": "564684",
+    "stock": "54",
+    "status": true,
+    "id": 96545
+  },
+  {
+    "title": "sandia",
+    "description": "grande",
+    "price": "12454",
+    "thumbnail": "laksdjflij",
+    "code": "5484",
+    "stock": "56",
+    "status": true,
+    "id": 17000
+  },
+  {
+    "title": "melon",
+    "description": "grande",
+    "price": "12454",
+    "thumbnail": "laksdjflij",
+    "code": "1111",
+    "stock": "56",
+    "status": true,
+    "id": 42083
+  },
+  {
+    "title": "manzana",
+    "description": "roja",
+    "price": 550,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MM284",
+    "stock": 76,
+    "status": true,
+    "id": 13077
+  },
+  {
+    "title": "Pera de Agua",
+    "description": "Pera de agua o Blanquilla: Son peras de tamaño medio,",
+    "price": 687,
+    "thumbnail": "foto",
+    "code": "MM248",
+    "stock": 54,
+    "status": true,
+    "id": 51807
+  },
+  {
+    "title": "mandarina",
+    "description": "naranja",
+    "price": 354,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MA275",
+    "stock": 206,
+    "status": true,
+    "id": 71303
+  },
+  {
+    "title": "Manzana Fuji",
+    "description": "Manzana Fuji: Es una variedad de manzana originaria de Japón",
+    "price": 500,
+    "thumbnail": "foto",
+    "code": "MM249",
+    "stock": 32,
+    "status": true,
+    "id": 28389
+  },
+  {
+    "title": "Banana",
+    "description": "Banana: Es una fruta tropical originaria del sudeste asiático.",
+    "price": 300,
+    "thumbnail": "foto",
+    "code": "MM250",
+    "stock": 12,
+    "status": true,
+    "id": 42069
+  },
+  {
+    "title": "Mango",
+    "description": "El mango es una fruta tropical originaria del sur y sureste asiático.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "MNGO-001",
+    "stock": 100,
+    "status": true,
+    "id": 8552
+  },
+  {
+    "title": "Ñame",
+    "description": "El ñame es un tubérculo originario de África y Asia.",
+    "price": 159,
+    "thumbnail": "foto",
+    "code": "YAM-001",
+    "stock": 100,
+    "status": true,
+    "id": 41005
+  },
+  {
+    "title": "Batata",
+    "description": "La batata es un tubérculo originario de América del Sur.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "BT-001",
+    "stock": 100,
+    "status": true,
+    "id": 60948
+  },
+  {
+    "title": "queso",
+    "description": "blando",
+    "price": "1200",
+    "thumbnail": "df",
+    "code": "45",
+    "stock": "54",
+    "status": true,
+    "id": 84382
+  },
+  {
+    "title": "pp",
+    "description": "pp",
+    "price": "4444",
+    "thumbnail": "444",
+    "code": "4444",
+    "stock": "4444",
+    "status": true,
+    "id": 7149
+  },
+  {
+    "title": "banana",
+    "description": "amarilla",
+    "price": "12454",
+    "thumbnail": "laksdjflij",
+    "code": "564684",
+    "stock": "54",
+    "status": true,
+    "id": 96545
+  },
+  {
+    "title": "manzana",
+    "description": "roja",
+    "price": 550,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MM284",
+    "stock": 76,
+    "status": true,
+    "id": 13077
+  },
+  {
+    "title": "Pera de Agua",
+    "description": "Pera de agua o Blanquilla: Son peras de tamaño medio,",
+    "price": 687,
+    "thumbnail": "foto",
+    "code": "MM248",
+    "stock": 54,
+    "status": true,
+    "id": 51807
+  },
+  {
+    "title": "mandarina",
+    "description": "naranja",
+    "price": 354,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MA275",
+    "stock": 206,
+    "status": true,
+    "id": 71303
+  },
+  {
+    "title": "Manzana Fuji",
+    "description": "Manzana Fuji: Es una variedad de manzana originaria de Japón",
+    "price": 500,
+    "thumbnail": "foto",
+    "code": "MM249",
+    "stock": 32,
+    "status": true,
+    "id": 28389
+  },
+  {
+    "title": "Banana",
+    "description": "Banana: Es una fruta tropical originaria del sudeste asiático.",
+    "price": 300,
+    "thumbnail": "foto",
+    "code": "MM250",
+    "stock": 12,
+    "status": true,
+    "id": 42069
+  },
+  {
+    "title": "Mango",
+    "description": "El mango es una fruta tropical originaria del sur y sureste asiático.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "MNGO-001",
+    "stock": 100,
+    "status": true,
+    "id": 8552
+  },
+  {
+    "title": "Ñame",
+    "description": "El ñame es un tubérculo originario de África y Asia.",
+    "price": 159,
+    "thumbnail": "foto",
+    "code": "YAM-001",
+    "stock": 100,
+    "status": true,
+    "id": 41005
+  },
+  {
+    "title": "Batata",
+    "description": "La batata es un tubérculo originario de América del Sur.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "BT-001",
+    "stock": 100,
+    "status": true,
+    "id": 60948
+  },
+  {
+    "title": "queso",
+    "description": "blando",
+    "price": "1200",
+    "thumbnail": "df",
+    "code": "45",
+    "stock": "54",
+    "status": true,
+    "id": 84382
+  },
+  {
+    "title": "pp",
+    "description": "pp",
+    "price": "4444",
+    "thumbnail": "444",
+    "code": "4444",
+    "stock": "4444",
+    "status": true,
+    "id": 7149
+  },
+  {
+    "title": "banana",
+    "description": "amarilla",
+    "price": "12454",
+    "thumbnail": "laksdjflij",
+    "code": "564684",
+    "stock": "54",
+    "status": true,
+    "id": 96545
+  },
+  {
+    "title": "sandia",
+    "description": "grande",
+    "price": "12454",
+    "thumbnail": "laksdjflij",
+    "code": "5484",
+    "stock": "56",
+    "status": true,
+    "id": 17000
+  },
+  {
+    "title": "manzana",
+    "description": "roja",
+    "price": 550,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MM284",
+    "stock": 76,
+    "status": true,
+    "id": 13077
+  },
+  {
+    "title": "Pera de Agua",
+    "description": "Pera de agua o Blanquilla: Son peras de tamaño medio,",
+    "price": 687,
+    "thumbnail": "foto",
+    "code": "MM248",
+    "stock": 54,
+    "status": true,
+    "id": 51807
+  },
+  {
+    "title": "mandarina",
+    "description": "naranja",
+    "price": 354,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MA275",
+    "stock": 206,
+    "status": true,
+    "id": 71303
+  },
+  {
+    "title": "Manzana Fuji",
+    "description": "Manzana Fuji: Es una variedad de manzana originaria de Japón",
+    "price": 500,
+    "thumbnail": "foto",
+    "code": "MM249",
+    "stock": 32,
+    "status": true,
+    "id": 28389
+  },
+  {
+    "title": "Banana",
+    "description": "Banana: Es una fruta tropical originaria del sudeste asiático.",
+    "price": 300,
+    "thumbnail": "foto",
+    "code": "MM250",
+    "stock": 12,
+    "status": true,
+    "id": 42069
+  },
+  {
+    "title": "Mango",
+    "description": "El mango es una fruta tropical originaria del sur y sureste asiático.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "MNGO-001",
+    "stock": 100,
+    "status": true,
+    "id": 8552
+  },
+  {
+    "title": "Ñame",
+    "description": "El ñame es un tubérculo originario de África y Asia.",
+    "price": 159,
+    "thumbnail": "foto",
+    "code": "YAM-001",
+    "stock": 100,
+    "status": true,
+    "id": 41005
+  },
+  {
+    "title": "Batata",
+    "description": "La batata es un tubérculo originario de América del Sur.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "BT-001",
+    "stock": 100,
+    "status": true,
+    "id": 60948
+  },
+  {
+    "title": "queso",
+    "description": "blando",
+    "price": "1200",
+    "thumbnail": "df",
+    "code": "45",
+    "stock": "54",
+    "status": true,
+    "id": 84382
+  },
+  {
+    "title": "pp",
+    "description": "pp",
+    "price": "4444",
+    "thumbnail": "444",
+    "code": "4444",
+    "stock": "4444",
+    "status": true,
+    "id": 7149
+  },
+  {
+    "title": "banana",
+    "description": "amarilla",
+    "price": "12454",
+    "thumbnail": "laksdjflij",
+    "code": "564684",
+    "stock": "54",
+    "status": true,
+    "id": 96545
+  },
+  {
+    "title": "manzana",
+    "description": "roja",
+    "price": 550,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MM284",
+    "stock": 76,
+    "status": true,
+    "id": 13077
+  },
+  {
+    "title": "Pera de Agua",
+    "description": "Pera de agua o Blanquilla: Son peras de tamaño medio,",
+    "price": 687,
+    "thumbnail": "foto",
+    "code": "MM248",
+    "stock": 54,
+    "status": true,
+    "id": 51807
+  },
+  {
+    "title": "mandarina",
+    "description": "naranja",
+    "price": 354,
+    "thumbnail": "http://thumbnail.com",
+    "code": "MA275",
+    "stock": 206,
+    "status": true,
+    "id": 71303
+  },
+  {
+    "title": "Manzana Fuji",
+    "description": "Manzana Fuji: Es una variedad de manzana originaria de Japón",
+    "price": 500,
+    "thumbnail": "foto",
+    "code": "MM249",
+    "stock": 32,
+    "status": true,
+    "id": 28389
+  },
+  {
+    "title": "Banana",
+    "description": "Banana: Es una fruta tropical originaria del sudeste asiático.",
+    "price": 300,
+    "thumbnail": "foto",
+    "code": "MM250",
+    "stock": 12,
+    "status": true,
+    "id": 42069
+  },
+  {
+    "title": "Mango",
+    "description": "El mango es una fruta tropical originaria del sur y sureste asiático.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "MNGO-001",
+    "stock": 100,
+    "status": true,
+    "id": 8552
+  },
+  {
+    "title": "Ñame",
+    "description": "El ñame es un tubérculo originario de África y Asia.",
+    "price": 159,
+    "thumbnail": "foto",
+    "code": "YAM-001",
+    "stock": 100,
+    "status": true,
+    "id": 41005
+  },
+  {
+    "title": "Batata",
+    "description": "La batata es un tubérculo originario de América del Sur.",
+    "price": 199,
+    "thumbnail": "foto",
+    "code": "BT-001",
+    "stock": 100,
+    "status": true,
+    "id": 60948
+  },
+  {
+    "title": "queso",
+    "description": "blando",
+    "price": "1200",
+    "thumbnail": "df",
+    "code": "45",
+    "stock": "54",
+    "status": true,
+    "id": 84382
+  },
+  {
+    "title": "pp",
+    "description": "pp",
+    "price": "4444",
+    "thumbnail": "444",
+    "code": "4444",
+    "stock": "4444",
+    "status": true,
+    "id": 7149
+  },
+  {
+    "title": "banana",
+    "description": "amarilla",
+    "price": "12454",
+    "thumbnail": "laksdjflij",
+    "code": "564684",
+    "stock": "54",
+    "status": true,
+    "id": 96545
+  },
+  {
+    "title": "sandia",
+    "description": "grande",
+    "price": "12454",
+    "thumbnail": "laksdjflij",
+    "code": "5484",
+    "stock": "56",
+    "status": true,
+    "id": 17000
+  },
+  {
+    "title": "melon",
+    "description": "grande",
+    "price": "12454",
+    "thumbnail": "laksdjflij",
+    "code": "1111",
+    "stock": "56",
+    "status": true,
+    "id": 42083
+  },
+  {
+    "title": "melon",
+    "description": "verde",
+    "price": "12",
+    "thumbnail": "laksdjflij",
+    "code": "21548",
+    "stock": "54",
+    "status": true,
+    "id": 60075
+  }
+]
